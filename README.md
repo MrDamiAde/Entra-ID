@@ -2,7 +2,7 @@
 
 ### Project Overview
 ---
-This Entra-ID user onboarding Project aims to demonstrate how to effectively add a user base of 1000 employees on a CSV file into Entra ID using Powershell Scripting. This 
+This Entra-ID user onboarding Project aims to demonstrate how to effectively add a user base of 1000 employees from a CSV file onto Microsoft Entra ID using Powershell Scripting. This 
 
 ### User Sources
 
@@ -19,15 +19,15 @@ usied a list of userse provided onlinen
 
 1.  
    
-![Screenshot 2024-08-16 202127](https://github.com/user-attachments/assets/70d6560e-e4b3-40ca-82d2-db1141f57f1b)
+
 
 2. Create User
 
-![Screenshot 2024-08-16 202735](https://github.com/user-attachments/assets/14063e19-6026-48b6-b74f-8e54325a97c6)
+
 
 4.  bgr
 
-[Video 8-16 at 12.56.webm](https://github.com/user-attachments/assets/cdfc909f-07d8-4e16-9a95-83613a8491d6)
+
 
    
 - dwdwdwd
@@ -50,4 +50,4 @@ usied a list of userse provided onlinen
 
 ### References
 
-1. blah blah blah blah
+1. https://1000randomnames.com/
