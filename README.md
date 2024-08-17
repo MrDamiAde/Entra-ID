@@ -6,12 +6,12 @@ This Project aims to demonstrate how to effectively add a user base of 1000 empl
 
 ### User Sources
 
-The users used in this project were sourced from https://1000randomnames.com. The user template was then sourfed from Entra ID to input the user values.
+The users used in this project were sourced from https://1000randomnames.com. The users were then adaptes to a CSV template sourced from Entra ID Bulk ooerqriins - create users tool.
 
 ### Tools
 
 - Powershell - used for confirming user import
-- Microsoft Entra ID
+- Microsoft Entra ID Adim Centre - Bulk Operations -  Create Users
 
 ### User List Preparation
 
@@ -20,7 +20,7 @@ The users used in this project were sourced from https://1000randomnames.com. Th
 
 ### Bulk Uploading Using Bulk Operations
 
-I used the bulk operation tool to import the 1000 users in 1 go.
+I used the bulk operation tool to import the 1000 users into Entra ID.
 
 
 
@@ -40,10 +40,13 @@ The bekow screenshot confirms the success:
 
 ### Results
 
-1. succesfully created 1000 Users on Entra ID
+1. succesfully importsnt 1000 Users on Entra ID
+2. Succesfull verified thr creation of 1000 users using Powershell
+
    
 
 
 ### References
 
 1. https://1000randomnames.com/
+2. https://learn.microsoft.com/en-us/entra/identity/users/users-bulk-add
