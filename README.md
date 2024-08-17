@@ -2,15 +2,15 @@
 
 ### Project Overview
 ---
-This Entra-ID user onboarding Project aims to demonstrate how to effectively add a user base of 1000 employees from a CSV file onto Microsoft Entra ID using Powershell Scripting. This 
+This Project aims to demonstrate how to effectively add a user base of 1000 employees from a CSV file onto Microsoft Entra ID using the bulk operation tool. Powershell Scripting will then be used to veridy that the users have been added.
 
 ### User Sources
 
-usied a list of userse provided onlinen
+The users used in this project were sourced from _____. a import temolare was rhen sourfed from Entra ID to input the values.
 
 ### Tools
 
-- Powershell - used for user scripting [ #d
+- Powershell - used for confirming user import
 - Microsoft Entra ID
 - PowerBI - creating a report
 
