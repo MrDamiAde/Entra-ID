@@ -6,7 +6,7 @@ This Project aims to demonstrate how to effectively add a user base of 1000 empl
 
 ### User Sources
 
-The users used in this project were sourced from _____. a user template was then sourfed from Entra ID to input the user values.
+The users used in this project were sourced from https://1000randomnames.com. The user template was then sourfed from Entra ID to input the user values.
 
 ### Tools
 
