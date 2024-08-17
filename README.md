@@ -25,11 +25,6 @@ usied a list of userse provided onlinen
 2. Bulk Uploading Using Bulk Operations
 
 
-https://github.com/user-attachments/assets/7cb8b223-fe98-4cbc-9f81-c18760eb4584
-
-
-   
-
 
 
 4.  bgr
