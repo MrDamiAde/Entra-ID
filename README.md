@@ -15,13 +15,17 @@ usied a list of userse provided onlinen
 - PowerBI - creating a report
 
 
-### User List Preparationp
+### User List Preparation
 
-1.  
+1.  How to Bulk Upload Users
+
    
 
 
-2. Create User
+2. Bulk Uploading Using Entri ID Admin
+
+[Video 8-17 at 4.02.webm](https://github.com/user-attachments/assets/e3a1039c-9e17-45c5-ab3b-20af1164fd68)
+   
 
 
 
