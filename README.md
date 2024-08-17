@@ -17,12 +17,12 @@ usied a list of userse provided onlinen
 
 ### User List Preparation
 
-1.  How to Bulk Upload Users
+1.  Preparing User List
 
-   
+![Screenshot 2024-08-17 112106](https://github.com/user-attachments/assets/c879237a-61f4-447e-a807-d9a9dd26ba92)
 
 
-2. Bulk Uploading Using Entri ID Admin
+2. Bulk Uploading Using Bulk Operations
 
 [Video 8-17 at 4.02.webm](https://github.com/user-attachments/assets/e3a1039c-9e17-45c5-ab3b-20af1164fd68)
    
@@ -37,12 +37,13 @@ usied a list of userse provided onlinen
 - dwdwdwd
 - dwdwdd
 
-### Data Analysis
+### User Analysis using Powershell
 
--feff
--f33f3
--f3f3
+I will now verify that all 1000 users have been successfully uploaded on Entra ID using the below PowerShell script:
 
+```powershell
+Get-MgUser -Filter "UserType eq 'Member'"
+```
 
 ### Results
 
