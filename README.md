@@ -33,6 +33,8 @@ I will now verify that all 1000 users have been successfully uploaded on Entra I
 Get-MgUser -Filter "UserType eq 'Member'"
 ```
 
+The bekow screenshot confirms the success:
+
 ![Screenshot 2024-08-17 133209](https://github.com/user-attachments/assets/b78bec12-3715-4f87-8702-a043d2232074)
 
 
