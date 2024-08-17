@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/788a2990-defc-457b-9eeb-a669d699cda2
 # Entra-ID Adding multiple users using Powershell
 
 ### Project Overview
@@ -24,7 +26,10 @@ usied a list of userse provided onlinen
 
 2. Bulk Uploading Using Bulk Operations
 
-[Video 8-17 at 4.02.webm](https://github.com/user-attachments/assets/e3a1039c-9e17-45c5-ab3b-20af1164fd68)
+
+https://github.com/user-attachments/assets/7cb8b223-fe98-4cbc-9f81-c18760eb4584
+
+
    
 
 
