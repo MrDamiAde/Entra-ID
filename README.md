@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/788a2990-defc-457b-9eeb-a669d699cda2
 # Entra-ID Adding multiple users using Powershell
 
 ### Project Overview
