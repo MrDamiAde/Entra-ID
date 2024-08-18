@@ -2,11 +2,11 @@
 
 ### Project Overview
 ---
-This Project aims to demonstrate how to effectively add a user base of 1000 employees from a CSV file onto Microsoft Entra ID using the bulk operation tool. A Powershell script will then be used to veridy that the users have been added.
+This Project aims to demonstrate how to effectively create users from a user base of 1000 employees from a CSV file using Microsoft Entra ID using the Bulk Operation tool. A Powershell script will then verify that the users have been added.
 
 ### User Sources
 
-The users used in this project were sourced from https://1000randomnames.com. The users were then adaptes to a CSV template sourced from Entra ID Bulk ooerqriins - create users tool.
+The users used in this project were sourced from https://1000randomnames.com. The users were then adapted to a CSV template sourced from Entra ID Bulk operations - create users tool.
 
 ### Tools
 
