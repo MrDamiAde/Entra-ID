@@ -22,6 +22,7 @@ The users used in this project were sourced from https://1000randomnames.com. Th
 
 I used the bulk operation tool to import the 1000 users into Entra ID.
 
+https://github.com/user-attachments/assets/abf2d241-efa8-473e-b3d0-310e7f469aec
 
 
 
