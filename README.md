@@ -7,7 +7,7 @@ This project demonstrates the process of efficiently creating 1,000 users in Mic
 ### User Sources
 
 - The names used in this project were sourced from https://1000randomnames.com.
-- The names were then adapted to a CSV template sourced from Entra ID Bulk operations.
+- The names were then adapted to a CSV template sourced from Entra ID Bulk operations tool.
 
 ### Tools
 
